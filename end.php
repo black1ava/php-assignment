@@ -16,7 +16,7 @@
     </div>
   </div>
   <script>
-    document.addEventListener('click', () => window.location = 'index.php');
+    document.addEventListener('click', () => window.location = '/');
   </script>
 </body>
 </html>
