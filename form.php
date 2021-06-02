@@ -37,6 +37,7 @@
         <?php echo $_POST["comment"]?>
       </p>
       <button id="btn">Finish</button>
+      <button id="btn_bk">Go back</button>
     </div>
   </div>
 </body>
